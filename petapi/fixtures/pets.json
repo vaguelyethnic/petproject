@@ -1,0 +1,39 @@
+[
+    {
+        "model": "petapi.pet",
+        "pk": 1,
+        "fields": {
+            "owner_id": 1,
+            "name": "Buddy",
+            "age": 3,
+            "breed": 1,
+            "size_category": 1,
+            "temperament": 1
+        }
+    },
+    {
+        "model": "petapi.pet",
+        "pk": 2,
+        "fields": {
+            "owner_id": 2,
+            "name": "Max",
+            "age": 2,
+            "breed": 2,
+            "size_category": 2,
+            "temperament": 2
+        }
+    },
+    {
+        "model": "petapi.pet",
+        "pk": 3,
+        "fields": {
+            "owner_id": 3,
+            "name": "Bella",
+            "age": 4,
+            "breed": 1,
+            "size_category": 1,
+            "temperament": 2
+        }
+    }
+]
+

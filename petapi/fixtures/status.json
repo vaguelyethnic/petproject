@@ -1,0 +1,23 @@
+[
+    {
+        "model": "petapi.status",
+        "pk": 1,
+        "fields": {
+            "status_type": "Available"
+        }
+    },
+    {
+        "model": "petapi.status",
+        "pk": 2,
+        "fields": {
+            "status_type": "Pending"
+        }
+    },
+    {
+        "model": "petapi.status",
+        "pk": 3,
+        "fields": {
+            "status_type": "Completed"
+        }
+    }
+]

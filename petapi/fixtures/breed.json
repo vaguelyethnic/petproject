@@ -1,0 +1,23 @@
+[
+    {
+        "model": "petapi.breed",
+        "pk": 1,
+        "fields": {
+            "breed_type": "Golden Retriever"
+        }
+    },
+    {
+        "model": "petapi.breed",
+        "pk": 2,
+        "fields": {
+            "breed_type": "Bulldog"
+        }
+    },
+    {
+        "model": "petapi.breed",
+        "pk": 3,
+        "fields": {
+            "breed_type": "Beagle"
+        }
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "model": "petapi.user",
+        "pk": 1,
+        "fields": {
+            "username": "doglover",
+            "email": "doglover@example.com",
+            "phone_number": 1234567890,
+            "password": "hashedpassword1",
+            "date_joined": "2024-01-01",
+            "location": "New York"
+        }
+    },
+    {
+        "model": "petapi.user",
+        "pk": 2,
+        "fields": {
+            "username": "catperson",
+            "email": "catperson@example.com",
+            "phone_number": 2345678901,
+            "password": "hashedpassword2",
+            "date_joined": "2024-01-15",
+            "location": "Los Angeles"
+        }
+    },
+    {
+        "model": "petapi.user",
+        "pk": 3,
+        "fields": {
+            "username": "petenthusiast",
+            "email": "petenthusiast@example.com",
+            "phone_number": 3456789012,
+            "password": "hashedpassword3",
+            "date_joined": "2024-02-01",
+            "location": "Chicago"
+        }
+    }
+]
+

@@ -1,0 +1,27 @@
+[
+    {
+        "model": "petapi.petplaydate",
+        "pk": 1,
+        "fields": {
+            "pet_id": 1,
+            "playdate_id": 1
+        }
+    },
+    {
+        "model": "petapi.petplaydate",
+        "pk": 2,
+        "fields": {
+            "pet_id": 2,
+            "playdate_id": 2
+        }
+    },
+    {
+        "model": "petapi.petplaydate",
+        "pk": 3,
+        "fields": {
+            "pet_id": 3,
+            "playdate_id": 3
+        }
+    }
+]
+

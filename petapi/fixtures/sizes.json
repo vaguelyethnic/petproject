@@ -1,0 +1,23 @@
+[
+    {
+        "model": "petapi.size",
+        "pk": 1,
+        "fields": {
+            "size_category": "Large"
+        }
+    },
+    {
+        "model": "petapi.size",
+        "pk": 2,
+        "fields": {
+            "size_category": "Medium"
+        }
+    },
+    {
+        "model": "petapi.size",
+        "pk": 3,
+        "fields": {
+            "size_category": "Small"
+        }
+    }
+]

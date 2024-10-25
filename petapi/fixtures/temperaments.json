@@ -1,0 +1,23 @@
+[
+    {
+        "model": "petapi.temperament",
+        "pk": 1,
+        "fields": {
+            "temperament_type": "Friendly"
+        }
+    },
+    {
+        "model": "petapi.temperament",
+        "pk": 2,
+        "fields": {
+            "temperament_type": "Loyal"
+        }
+    },
+    {
+        "model": "petapi.temperament",
+        "pk": 3,
+        "fields": {
+            "temperament_type": "Energetic"
+        }
+    }
+]
